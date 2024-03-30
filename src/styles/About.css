@@ -1,0 +1,47 @@
+.about-container {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+}
+
+.about-left-cont {
+    width: 600px;
+    padding: 40px;
+    
+
+}
+
+.about-right-cont {
+
+
+    width: 600px;
+    height: 550px;
+    padding: 120px;
+}
+.about-right-cont p
+{
+    font-family: cursive;
+}
+
+.about-right-cont h1 {
+
+    color: #840f8c;
+    font-size: 70px;
+    font-weight: 600;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.about-right-cont p {
+    font-size: x-large;
+}
+
+.about-left-cont img {
+    width: 650px;
+    height: 650px;
+    border-radius: 350px;
+    margin: 20px;
+    object-fit: contain;
+    padding-left: 40px;
+    padding-right: 20px;
+   
+}
