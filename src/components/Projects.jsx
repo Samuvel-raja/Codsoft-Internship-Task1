@@ -35,10 +35,10 @@ const Projects = () => {
             <strong>Developed a series of mini projects showcasing proficiency in HTML, CSS, and JavaScript, including but not limited to:</strong>
               <ul>
                 
-                <li>TodoList Application</li>
-                <li>Calculator Application</li>
+                <li>TodoList</li>
+                <li>Simple Calculator</li>
                 <li>Weather Application</li>
-                <li>Drawing Application</li>
+                <li>Drawing App</li>
                 <li>Quotes Generator</li>
                 <li>Counter</li>
                 <li>Stopwatch</li>
