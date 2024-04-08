@@ -1,7 +1,7 @@
 .about-container {
     display: flex;
     flex-direction: row;
-     flex-wrap:wrap;
+
 }
 
 .about-left-cont {
@@ -16,7 +16,7 @@
 
     width: 450px;
     height: 550px;
-    padding: 120px;
+    padding: 50px;
 }
 .about-right-cont p
 {
