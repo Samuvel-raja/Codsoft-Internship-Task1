@@ -1,7 +1,7 @@
 .about-container {
     display: flex;
     flex-direction: row;
-   
+     flex-wrap:wrap;
 }
 
 .about-left-cont {
