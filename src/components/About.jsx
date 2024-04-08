@@ -3,7 +3,7 @@ import portimage from '../images/sam1-transformed.jpeg'
 import '../styles/About.css'
 import AOS from 'aos'
 import 'aos/dist/aos.css'
-import Navbar from '../components/Navbar'
+// import Navbar from '../components/Navbar'
 
 
 
